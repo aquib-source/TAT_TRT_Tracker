@@ -3,7 +3,7 @@
 I need to create a sheet and allow the user to enter a entity name in the first column
 
 In the second column, I want to let the user input the assigned_time. The date should be automatically inserted.
-In the next column, I want to calculate 4 hours from the assigned_time and show it to the user in another column as FRT_End _time
+In the next column, I want to calculate 4 hours from the assigned_time and show it to the user as FRT_End _time
 
 I would like to create one more column where the user would input created_time and the system calculates 48 hours from this time and prints it out in another column as TRT_End_time. The date should reflect automatically here too. 
 
